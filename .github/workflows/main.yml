@@ -29,10 +29,9 @@ jobs:
 
       - name: Test
         run: mvn test
-      - name: Archive report and screenshot
+
+      - name: Archive test report
         uses: actions/upload-artifact@v2
         with:
-          name: AutoTest
-          path: |
-            vitrinalive_selenium-ui-test\cucumber_results
-            vitrinalive_selenium-ui-test\failed_scenarios
+             name: AutoTestReport
+             path: vitrinalive_selenium-ui-test/cucumber_results
