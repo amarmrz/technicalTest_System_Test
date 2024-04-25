@@ -20,12 +20,6 @@ jobs:
         with:
           java-version: 11
 
-      - name: Archive test report
-        uses: actions/upload-artifact@v2
-        with:
-          name: AutoTestReport
-          path: vitrinalive_selenium-ui-test/cucumber_results
-
       - name: Build
         uses: actions/cache@v2
         with:
@@ -36,3 +30,8 @@ jobs:
       - name: Test
         run: mvn test
 
+      - name: Archive test report
+        uses: actions/upload-artifact@v2
+        with:
+          name: AutoTestReport
+          path: vitrinalive_selenium-ui-test/cucumber_results
