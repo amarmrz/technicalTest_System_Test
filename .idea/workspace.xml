@@ -5,84 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d24a7ef-f3da-4cfc-a7d5-e1aea8a47362" name="Changes" comment="Updating pom.xml">
-      <change afterPath="$PROJECT_DIR$/src/features/Candidate/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_results/CV_report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/CVVideo/E2E_UpdateCv.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/CVVideo/InvalidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/CVVideo/SuccessfulLogout.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/CVVideo/ValidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/AddCandidateDetails.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/Candidate/Register.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/AnswerQuizQuestions.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/ChangeLanguage.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/ConfigureTerminal.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/ConfirmCandidateDetails.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/EditCandidateDetails.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/InvalidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Candidate/ValidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/AnswerFollowUpQuestion.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/ChangePageNumber.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/ChangeRowsPerPage.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/EditCandidateInfo.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/Filter.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/ForgotPassword.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/FreeUpSpace.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/GetCandidateAnswers.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/GetCandidateInfo.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/GetCandidateQualities.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/InvalidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/SearchCandidate.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/ShareCandidateProfile.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/ShareExportByEmail.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/SortCandidates.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/SuccessfulLogout.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Hostess/ValidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Tablet/InvalidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Tablet/SuccessfulLogout.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Tablet/ValidLogin.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Tablet/watchQualificationVideo.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/CandidateAppTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/CandidateAppTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/CvVideoAppTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/HostessAppTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/TabletAppTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/AddCandidateDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/AnswerQuizQuestions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/ChangeLanguage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/ConfigureTerminal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/ConfirmCandidateDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/EditCandidateDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/InvalidLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/ValidLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSteps/Candidate/Register.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/CvVideo/E2E_UpdateCv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/CvVideo/Hooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/CvVideo/SuccessfulLogout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/CvVideo/ValidLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/AnswerFollowUpQuestion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/ChangePageNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/ChangeRowsPerPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/EditCandidateInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/Forgotpassword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/FreeUpSpace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/GetCandidateAnswers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/GetCandidateInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/GetCandidateQualities.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/Hooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/InvalidLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/SearchCandidate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/ShareCandidateProfile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/ShareReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/SortCandidates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/SuccessfulLogout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/ValidLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hostess/filterSkills.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Tablet/Hooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Tablet/InvalidLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Tablet/SuccessfulLogout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Tablet/ValidLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Tablet/watchQualificationVideo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,9 +49,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2M2rULdtTTpgHGYU0FVenpWl7Iv" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -135,23 +59,23 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "JUnit.CandidateAppTests (2).executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last.edited.regexp": "Sample Text",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/technical test/vitrinalive_selenium-ui-test",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;JUnit.CandidateAppTests (2).executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last.edited.regexp&quot;: &quot;Sample Text&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/technical test/vitrinalive_selenium-ui-test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Amar\Desktop\vitrinalive_selenium-ui-test\src\features\Candidate" />
