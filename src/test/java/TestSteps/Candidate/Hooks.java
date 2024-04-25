@@ -28,7 +28,7 @@ public class Hooks {
         chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("--disable-dev-shm-usage"); // overcome limited resource problems
         chromeOptions.addArguments("--no-sandbox"); // Bypass OS security model
-        //chromeOptions.addArguments("--headless");
+        chromeOptions.addArguments("--headless");
         driver = new ChromeDriver(chromeOptions);
         wait = new WebDriverWait(driver, Duration.ofMillis(5000));
     }
