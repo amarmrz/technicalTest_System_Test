@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d24a7ef-f3da-4cfc-a7d5-e1aea8a47362" name="Changes" comment="Updating pom.xml" />
+    <list default="true" id="8d24a7ef-f3da-4cfc-a7d5-e1aea8a47362" name="Changes" comment="Updating pom.xml">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
